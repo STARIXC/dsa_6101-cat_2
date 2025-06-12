@@ -1,1 +1,17 @@
 .env *.iml *.png *.jpg.env
+.env 
+*.env 
+.env.local 
+.env.*.local 
+uploads/ 
+storage/ 
+public/uploads/ 
+files/ 
+*.pdf 
+*.jpg 
+*.jpeg 
+*.png 
+*.gif 
+*.bmp 
+*.tiff 
+*.webp 
