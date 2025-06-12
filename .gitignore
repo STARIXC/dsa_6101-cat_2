@@ -1,3 +1,1 @@
-*.png
-*.jpg
-.env
+.env *.iml *.png *.jpg.env
